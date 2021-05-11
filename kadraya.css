@@ -1,0 +1,29 @@
+.center{
+	text-align: center;
+}
+
+.kad {
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	max-width: 1200px;
+	height: 100%;
+	text-align: center;
+}
+
+.segoe{
+	font-family: "Segoe Script";
+}
+
+.background{
+	background-image: url(lemang.jpg);
+	/* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.space{
+	padding: 10px 60px 10px 60px;
+}
